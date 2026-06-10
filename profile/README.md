@@ -1,5 +1,7 @@
 ## Free Exchange Rate API for 160+ Currencies
 
+[![Powered by Exchange-RateAPI](https://img.shields.io/badge/Powered%20by-Exchange--RateAPI-blueviolet.svg)](https://exchange-rateapi.com)
+
 [![API Status](https://img.shields.io/badge/API-Online-brightgreen)](https://exchange-rateapi.com) [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/Exchange-RateAPI)
 
 **Exchange Rate API** provides accurate, real-time and historical currency exchange rate data through a simple REST API. Mid-market rates from Reuters/Refinitiv updated every 60 seconds, no markup, no spread.
